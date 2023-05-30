@@ -1,0 +1,66 @@
+.image1{
+height:200px;
+width:300px;
+float:left;
+border-radius:10px;
+}
+h1,p{
+    color:white;
+   text-align:center;
+
+}
+#b{
+    color:red;
+}
+
+
+.side_bar{
+width:70%;
+display:inline-block;
+
+}
+
+.text1{
+padding:10px 10px;
+
+}
+#a{
+
+    float:none;
+}
+
+.maincontent{
+
+    display: inline-block;
+    width: 30%;
+    float: right;
+}
+body{
+
+    background-color:black;
+}
+
+.footer{
+display:block;
+position:relative;
+top:500px;
+
+    
+}
+.footer>p{
+
+    text-align:center;
+    font-size:40px;
+    display: inline-block;
+    
+}
+a{
+display: inline-block;
+    
+    position:absolute;
+    top:40px;
+    text-decoration: none;
+    color:red;
+
+}
+
